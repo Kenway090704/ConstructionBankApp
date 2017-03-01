@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 57,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endColumn": 55,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 52,
+                    "endOffset": 1172
+                },
+                "from": {
+                    "file": "/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1177,
+                    "endColumn": 47,
+                    "endOffset": 1220
+                },
+                "from": {
+                    "file": "/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 47,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1225,
+                    "endColumn": 52,
+                    "endOffset": 1273
+                },
+                "from": {
+                    "file": "/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1278,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1724
+                },
+                "from": {
+                    "file": "/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

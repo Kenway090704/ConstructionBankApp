@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0f79866f714fbe3297fdbc8bd91849ca43aa6fd">
+        <dex dex="/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f8ec5c1e9f644814169106e32a0cde9ae1bf27b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4edbd3143c71ad576fcb92697354b6093859d461">
+        <dex dex="/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7c04f72ae8a7ed61efe43e8d1fc072c011f7472f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaokai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/xiaokai/Documents/test/rtspwifi/EasyIPCamera-master/ConstructionBankApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_255b528c868761d62e2a61cc59053a2c3b6126b7/classes.dex" />
+    </item>
+
+</items>
